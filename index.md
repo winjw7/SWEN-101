@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## About Me
+Hi my name is Justin and I'm from Walworth, NY. For high school I attended Wayne Central where I participated in both track and soccer. I'm heavily invested in athletics while also a software developer. For track I got 8 school records at my high school as well as competed and medaled at states 3 times. I've been programming for about 8 years now and was self taught and got some help from my Dad while learning who is also a programmer. 
 
-You can use the [editor on GitHub](https://github.com/winjw7/SWEN-101/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Favorite Food (Image)
+https://hips.hearstapps.com/del.h-cdn.co/assets/18/08/2048x1024/landscape-1519155106-flank-steak-horizontal.jpg?resize=1200
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# RIT SE Website
+http://www.se.rit.edu/welcome-software-engineering
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/winjw7/SWEN-101/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### What I'd like to learn from this Class
+- Hopefully anything I haven't already learned that's new to me
+- Making connections with people on campus 
